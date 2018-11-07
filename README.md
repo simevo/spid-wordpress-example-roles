@@ -14,7 +14,10 @@ Questa funzione potrebbe essere utile:
   - per creare un'area del sito accessibile a tutti i genitori, ma non al resto del pubblico
   - per creare delle aree separate per ogni anno scolastico, accessibili ai genitori di alunni che hanno frequentato in quell'anno scolastico, ma non al resto del pubblico
 - ad un'**associazione sportiva dilettantistica**: per creare delle aree del sito separate visibili solo agli allenatori o solo ai genitori dei bambini iscritti
-- ad un **sito di informazione locale**, per accettare in bozza articoli scritti da chiunque si sia autenticato son SPID, permettendo poi alla redazione di approvarli e renderli pubblici
+- ad un **sito di informazione locale**:
+  - per creare un'area del sito accessibile solo agli abbonati
+  - per permettere solo agli abbonati di commentare gli articoli
+  - per accettare in bozza articoli scritti da chiunque si sia autenticato son SPID, permettendo poi alla redazione di approvarli e renderli pubblici
 - ad un'**università**: per dividere il sito in sezioni (es. in base ai dipartimenti: http://example.com/matematica, http://example.com/chimica, http://example.com/fisica), poi raggruppare gli utenti in ruoli (es. DipMatematica, DipChimica, DipFisica) e infine permettere solo agli utenti appartenenti al ruolo corrispondente di creare / modificare pagine o articoli nella sezione rispettiva. 
 
 ## Funzionamento
